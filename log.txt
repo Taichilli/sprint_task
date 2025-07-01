@@ -1,8 +1,6 @@
-Trace: called test()with args: (3.0, 5.0), kwargs: {}Trace: called test()with output: 8.0Trace: called test() with args: (7.0, 9.0), kwargs: {}Trace: called test() with output: 16.0Trace: called test() with args: (5.0, 7.0), kwargs: {}
-Trace: called test() with output: 12.0
 
-Trace: called test() with args: (8.0, 6.0), kwargs: {}
-Trace: called test() with output: 14.0
+Имя функции: test() Входные данные args: (9.0, 7.0), kwargs: {}| время запуска: 2025-07-01 17:18:37.745206+00:00--> UTC
+Имя функции: test() Выходные данные: 16.0| время завершения: 2025-07-01 17:18:37.745206+00:00
 
-Trace: called test() with args: (8.0, 8.0), kwargs: {}
-Trace: called test() with output: 16.0
+Имя функции: test() Входные данные args: (6.0, 8.0), kwargs: {}| время запуска: 2025-07-01 17:21:47.075372+00:00--> UTC
+Имя функции: test() Выходные данные: 14.0| Локальное время: 2025-07-01 22:21:47.075372+05:00
