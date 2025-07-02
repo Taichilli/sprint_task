@@ -3,6 +3,9 @@ from datetime import datetime, timezone
 one = float(input('введите число'))
 two = float(input('введите число'))
 
+
+
+
 def log_function(file):
     def actual(func):
         def wrapper(*args, **kwargs):
