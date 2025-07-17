@@ -116,6 +116,7 @@ class Iphone4(Iphone):
         print(f"{self.model} использует старый 30-pin разъём")
 
 
+"""
 iphone15 = Iphone15(2023, 6, 256, 4000, "SN12345")
 iphone15.create_data()
 print("Серийник:", iphone15.serial_number)
@@ -124,3 +125,6 @@ print("Новый серийник:", iphone15.serial_number)
 
 print(Phone.get_total_created())  # classmethod
 print("Современный?", Phone.is_modern(iphone15.year_of_release))  # staticmethod
+
+Xiaomi13 = Android("Xiaomi LLC", "Xiaomi 13", 2022, 8, 256, 4500)
+Xiaomi13.create_data()"""
